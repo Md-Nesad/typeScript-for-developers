@@ -24,4 +24,4 @@ Become job-ready in TypeScript for Frontend and Full Stack Development.
 - Frontend Developers
 - Full Stack Developers
 - Developers preparing for interviews
-- Developers who want to use TypeScript with their daily workflow
+- Developers who want to use TypeScript with their daily workflow.
